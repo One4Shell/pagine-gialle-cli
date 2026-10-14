@@ -1,0 +1,6 @@
+/bin/
+/dist/
+/.agents/
+*.exe
+__debug_bin*
+/skills-lock.json
